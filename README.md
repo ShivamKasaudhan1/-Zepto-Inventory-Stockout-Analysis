@@ -1,8 +1,8 @@
-🛒 Zepto Inventory & Stockout Analysis
+#🛒 Zepto Inventory & Stockout Analysis
 
-An end-to-end data analysis and Power BI dashboard project based on Zepto’s product-level data. This project provides insights into pricing, discount patterns, stockout frequency, and category-level trends, supporting informed inventory and operational decision-making.
+An end-to-end **Data analysis** and **Power BI dashboard** project based on Zepto’s product-level data. This project offers insights into pricing, discount patterns, stockout frequency, and category-level trends, providing support for informed inventory and operational decision-making.
 
-📊 Project Goals
+##📊 Project Goals
 Clean and prepare inventory data for analysis.
 
 Identify top-value products and high-discount items.
@@ -11,22 +11,20 @@ Analyze frequent stockouts for supply chain planning.
 
 Build a clean, interactive Power BI dashboard for business reporting.
 
-🧰 Tools Used
+##🧰 Tools Used
 Tool	Purpose
-Excel	Data cleaning and preparation
-Power BI	Dashboard creation and visual storytelling
+Excel	Data - cleaning and preparation
+Power BI - Dashboard creation and visual storytelling
 
-📁 Project Structure
-bash
-Copy
-Edit
+##📁 Project Structure
+
 Zepto-Inventory-Analysis/
 ├── zepto_v1.xlsx                  # Cleaned product-level data
 ├── zepto dashboard.pbix           # Final Power BI dashboard file
 ├── Dashboard_preview.png                    # Dashboard and layout previews
 └── README.md                      # Project overview and usage guide
 
-🔍 Key Insights
+##🔍 Key Insights
 ✅ Top 10 Expensive Products
 Identified based on the average MRP across SKUs.
 
@@ -55,19 +53,22 @@ Avg Discount %
 
 Total Stockouts
 
-📊 Dashboard Preview
+##📊 Dashboard Preview
+
 Here’s a snapshot of the final Power BI dashboard showcasing key insights:
 ![Power BI Dashboard](Dashboard_preview.png)
 
-🚀 How to Run This Project
-Open zepto dashboard.pbix in Power BI Desktop.
+##🚀 How to Run This Project
+Open Zepto Inventory dashboard.pbix in Power BI Desktop.
 
 Interact with filters and slicers to explore insights.
 
 Use zepto_v1.xlsx if you'd like to reload or modify data.
 
-✍️ Author
-Shivam Kasaudhan
+##✍️ Author
+**Shivam Kasaudhan**
 Aspiring Data Analyst | Portfolio Project
-🔗 Connect on LinkedIn'
+[Connect on LinkedIn](https://www.linkedin.com/in/shivamkasaudhan1/)
+
+---
 
