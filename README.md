@@ -2,6 +2,8 @@
 
 An end-to-end **Data analysis** and **Power BI dashboard** project based on Zepto’s product-level data. This project offers insights into pricing, discount patterns, stockout frequency, and category-level trends, providing support for informed inventory and operational decision-making.
 
+---
+
 ##📊 Project Goals
 Clean and prepare inventory data for analysis.
 
@@ -11,10 +13,14 @@ Analyze frequent stockouts for supply chain planning.
 
 Build a clean, interactive Power BI dashboard for business reporting.
 
+---
+
 ##🧰 Tools Used
 Tool	Purpose
 Excel	Data - cleaning and preparation
 Power BI - Dashboard creation and visual storytelling
+
+---
 
 ##📁 Project Structure
 
@@ -23,6 +29,8 @@ Zepto-Inventory-Analysis/
 ├── zepto dashboard.pbix           # Final Power BI dashboard file
 ├── Dashboard_preview.png                    # Dashboard and layout previews
 └── README.md                      # Project overview and usage guide
+
+---
 
 ##🔍 Key Insights
 ✅ Top 10 Expensive Products
@@ -53,10 +61,14 @@ Avg Discount %
 
 Total Stockouts
 
+---
+
 ##📊 Dashboard Preview
 
 Here’s a snapshot of the final Power BI dashboard showcasing key insights:
 ![Power BI Dashboard](Dashboard_preview.png)
+
+---
 
 ##🚀 How to Run This Project
 Open Zepto Inventory dashboard.pbix in Power BI Desktop.
@@ -64,6 +76,8 @@ Open Zepto Inventory dashboard.pbix in Power BI Desktop.
 Interact with filters and slicers to explore insights.
 
 Use zepto_v1.xlsx if you'd like to reload or modify data.
+
+---
 
 ##✍️ Author
 **Shivam Kasaudhan**
