@@ -1,7 +1,7 @@
 # 🛒 Zepto Inventory & Stockout Analysis
 
 An end-to-end **Data Analysis** and **Power BI Dashboard** project based on Zepto’s product-level data.  
-This project provides actionable insights into pricing, discount patterns, stockout frequency, and category-level trends — supporting informed inventory and operational decision-making.
+This project provides actionable insights into pricing, discount patterns, stockout frequency, and category-level trends, supporting informed inventory and operational decision-making.
 
 ---
 
@@ -25,12 +25,11 @@ This project provides actionable insights into pricing, discount patterns, stock
 
 ## 📁 Project Structure
 
-Zepto-Inventory-Analysis/
-
-├── zepto_v1.xlsx # Cleaned product-level data
-├── zepto dashboard.pbix # Final Power BI dashboard file
-├── Dashboard_preview.png # Dashboard layout preview
-└── README.md # Project overview and usage guide
+**Zepto-Inventory-Analysis/**  
+├── **zepto_v1.xlsx** – Cleaned product-level data  
+├── **zepto dashboard.pbix** – Final Power BI dashboard file  
+├── **Dashboard_preview.png** – Dashboard layout preview  
+└── **README.md** – Project overview and usage guide  
 
 
 ---
