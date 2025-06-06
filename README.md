@@ -5,6 +5,7 @@ An end-to-end **Data analysis** and **Power BI dashboard** project based on Zept
 ---
 
 ##📊 Project Goals
+
 Clean and prepare inventory data for analysis.
 
 Identify top-value products and high-discount items.
@@ -16,6 +17,7 @@ Build a clean, interactive Power BI dashboard for business reporting.
 ---
 
 ##🧰 Tools Used
+
 Tool	Purpose
 Excel	Data - cleaning and preparation
 Power BI - Dashboard creation and visual storytelling
@@ -33,13 +35,17 @@ Zepto-Inventory-Analysis/
 ---
 
 ##🔍 Key Insights
+
 ✅ Top 10 Expensive Products
+
 Identified based on the average MRP across SKUs.
 
 ✅ Products with High Discounts
+
 Filtered products offering more than 40% discount — ideal for pricing review.
 
 ✅ Frequently Out-of-Stock Items
+
 Summed stockout flags to highlight demand or supply issues.
 
 ✅ Category-Level Trends
@@ -51,6 +57,7 @@ Total Stockouts
 Average Discount %
 
 ✅ Summary KPIs
+
 Displayed using cards:
 
 Total SKUs
@@ -70,7 +77,8 @@ Here’s a snapshot of the final Power BI dashboard showcasing key insights:
 
 ---
 
-##🚀 How to Run This Project
+## 🚀 How to Run This Project
+
 Open Zepto Inventory dashboard.pbix in Power BI Desktop.
 
 Interact with filters and slicers to explore insights.
@@ -80,6 +88,7 @@ Use zepto_v1.xlsx if you'd like to reload or modify data.
 ---
 
 ##✍️ Author
+
 **Shivam Kasaudhan**
 Aspiring Data Analyst | Portfolio Project
 [Connect on LinkedIn](https://www.linkedin.com/in/shivamkasaudhan1/)
