@@ -26,6 +26,7 @@ This project provides actionable insights into pricing, discount patterns, stock
 ## 📁 Project Structure
 
 Zepto-Inventory-Analysis/
+
 ├── zepto_v1.xlsx # Cleaned product-level data
 ├── zepto dashboard.pbix # Final Power BI dashboard file
 ├── Dashboard_preview.png # Dashboard layout preview
@@ -75,7 +76,7 @@ Zepto-Inventory-Analysis/
 ## ✍️ Author
 
 **Shivam Kasaudhan**  
-Aspiring Data Analyst | Portfolio Project  
+Aspiring Data Analyst
 [🔗 Connect on LinkedIn](https://www.linkedin.com/in/shivamkasaudhan1/)
 
 ---
